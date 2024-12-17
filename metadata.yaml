@@ -1,0 +1,32 @@
+_repo: L-Inquisition-medievale_74817
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guiraud, Jean
+    birthdate: 1866
+    deathdate: 1953
+    gutenberg_agent_id: '57560'
+    url: http://www.gutenberg.org/2009/agents/57560
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean_Guiraud
+    - https://fr.wikipedia.org/wiki/Jean_Guiraud_(1866-1953)
+description: ''
+gutenberg_issued: '2024-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74817'
+language: fr
+pgterms:marc904: https://archive.org/details/MN5102ucmf_0
+pgterms:marc905: 20240103143332guiraud
+pgterms:marc906: '1928'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aParis :$bBernard Grasset, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'Inquisition médiévale
+url: http://www.gutenberg.org/ebooks/74817
