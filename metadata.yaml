@@ -1,5 +1,8 @@
 _repo: L-Inquisition-medievale_74817
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74817-h/images/cover.jpg
 creator:
   author:
     agent_name: Guiraud, Jean
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Guiraud
     - https://fr.wikipedia.org/wiki/Jean_Guiraud_(1866-1953)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74817#L-Inquisition-medievale
 gutenberg_issued: '2024-11-30'
 gutenberg_type: Text
 identifiers:
